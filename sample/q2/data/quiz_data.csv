@@ -1,0 +1,6 @@
+id,question,option_a,option_b,option_c,answer
+1,Python 파일의 확장자는?,.java,.py,.cpp,B
+2,화면에 출력하는 함수는?,print,input,return,A
+3,주석을 작성하는 기호는?,//,--,#,C
+4,리스트에 요소를 추가하는 메서드는?,add,push,append,C
+5,문자열의 길이를 구하는 함수는?,size,len,count,B

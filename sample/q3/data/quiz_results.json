@@ -1,0 +1,13 @@
+{
+    "title": "Python 기초",
+    "total": 5,
+    "correct": 3,
+    "score": 60.0,
+    "details": [
+        {"id": 1, "question": "Python 파일의 확장자는?", "correct_answer": "B", "user_answer": "B", "is_correct": true},
+        {"id": 2, "question": "화면에 출력하는 함수는?", "correct_answer": "A", "user_answer": "A", "is_correct": true},
+        {"id": 3, "question": "주석을 작성하는 기호는?", "correct_answer": "C", "user_answer": "B", "is_correct": false},
+        {"id": 4, "question": "리스트에 요소를 추가하는 메서드는?", "correct_answer": "C", "user_answer": "C", "is_correct": true},
+        {"id": 5, "question": "문자열의 길이를 구하는 함수는?", "correct_answer": "B", "user_answer": "A", "is_correct": false}
+    ]
+}
